@@ -1,0 +1,8 @@
+id=SystemPanel2ForMagisk
+name=SystemPanel2ForMagisk
+version=v2.0.b14
+versionCode=64
+author=JemyZhang
+description=SystemPanel is a tool to let you view and manage just about everything possible about the goings-on of your device and visualize it in an easy-to-understand graphical format.
+support=
+minMagisk=17000
